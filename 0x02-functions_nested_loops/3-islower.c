@@ -1,10 +1,10 @@
-#include"main.h"
+#include "main.h"
 
 
 /**
  * _islower - function to check
  *
- * 0c: Description c caracter lower
+ * @c: Description c caracter lower
  *
  * Return: returns 1 if c is lowercase otherwise always 0 (Success)
 */
