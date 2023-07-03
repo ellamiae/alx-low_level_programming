@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _atoi - print half string
+ * _atoi - convert a string to an int
  *
  * @s: string parameter
  *
- * Return: integer
+ * Return: converted integer from string
 */
 
 int _atoi(char *s)
